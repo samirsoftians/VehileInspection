@@ -12,6 +12,7 @@ public class Database
 
 
     //*****************
+    //***
     public static final String DB_NAME = "vehicleftp";
     public static final Integer DB_VERSION = 1;
 
